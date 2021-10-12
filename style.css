@@ -1,16 +1,30 @@
-#search  {
+.search  {
     color: teal;
-    background-color: whitesmoke;
-}
-#plus  {
-    color: azure;
+    border-radius: 12px;
+    width: 100px;
+    height: 30px;
+    border: 2px solid;
+    border-color: teal;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+    }
+.plus  {
     background-color: teal;
-    font-weight: 700;
-    width: 20px;
-    height: 20px;
+    color: antiquewhite;
     border-radius: 50%;
-    
+    border: none;
+    height: 30px;
+    width: 30px;
+    font-size: x-large;
+    margin: 10px;
 }
-#createAccount  {
-
+.createAccount  {
+    background-color: blue;
+    color: azure;
+    border: solid black;
+    width: 150px;
+    height: 30px;
+    margin: 10px;
+    box-shadow: 5px 5px black;
 }
